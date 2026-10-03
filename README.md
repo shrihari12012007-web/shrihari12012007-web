@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://shreehari.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-shreehari.onrender.com-00D2FF?style=for-the-badge&logo=render&logoColor=white" alt="Live Portfolio" /></a>
-    <a href="https://linkedin.com/in/shreehari-s-b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/shreehari-s-b-580a66440/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:shrihari12012007@gmail.com"><img src="https://img.shields.io/badge/Email-shrihari12012007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
   <p>
@@ -119,7 +119,7 @@
 
 <div align="center">
   <p>:sparkles: I am always excited to discuss new opportunities, collaborate on creative software, or explore AI concepts.</p>
-  <a href="https://linkedin.com/in/shreehari-s-b">
+  <a href="https://www.linkedin.com/in/shreehari-s-b-580a66440/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
