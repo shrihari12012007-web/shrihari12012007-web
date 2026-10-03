@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://shreehari.onrender.com">Shree Hari S B</a></h1>
+  <h1>:wave: Hi there, I'm <a href="https://shreehari.onrender.com">Shree Hari S B</a> :sparkles:</h1>
   <p>
-    <strong>Computer Science Engineer | AI & Computer Vision Developer | Full-Stack Web Builder</strong>
+    <strong>:mortar_board: Computer Science Engineer &nbsp;|&nbsp; :robot: AI & Computer Vision Developer &nbsp;|&nbsp; :computer: Full-Stack Web Builder</strong>
   </p>
   <p>
-    Davangere, Karnataka, India | CSE @ Jain Institute of Technology
+    :round_pushpin: Davangere, Karnataka, India &nbsp;|&nbsp; :school: CSE @ Jain Institute of Technology
   </p>
 
   <p>
@@ -21,35 +21,35 @@
 
 ---
 
-### About Me
+### :rocket: About Me
 
-- **Undergraduate:** Computer Science Engineering at Jain Institute of Technology, Davangere.
-- **Interests:** Artificial Intelligence, Machine Learning, Computer Vision, and responsive web development.
-- **Live Portfolio:** Explore my 3D interactive portfolio featuring a virtual BMW road tour at **[shreehari.onrender.com](https://shreehari.onrender.com/)**.
-- **Current Focus:** Python, MediaPipe, OpenCV, Electron, and scalable cloud deployments on **Render** and **Vercel**.
-- **Looking For:** Collaborative open-source projects, internships, and developer opportunities.
+- :mortar_board: **Undergraduate:** Computer Science Engineering at Jain Institute of Technology, Davangere.
+- :bulb: **Passions:** Artificial Intelligence, Machine Learning, Computer Vision, and responsive modern web platforms.
+- :racing_car: **Live Portfolio:** Explore my 3D interactive portfolio featuring a virtual BMW road tour at **[shreehari.onrender.com](https://shreehari.onrender.com/)**.
+- :hammer_and_wrench: **Current Focus:** Python, MediaPipe, OpenCV, Electron, and scalable cloud deployments on **Render** and **Vercel**.
+- :dart: **Looking For:** Collaborative open-source projects, software internships, and technical challenges.
 
 ---
 
-### Featured Projects & Live Deployments
+### :globe_with_meridians: Featured Projects & Live Deployments
 
 | Project | Description | Live Demo / Deployment | Tech Stack |
 | :--- | :--- | :---: | :--- |
-| **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour Portfolio & Personal Showcase | [![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | HTML5, CSS3, JavaScript, WebGL Canvas |
-| **[NOVA CUTS](https://github.com/shrihari12012007-web/nova-cuts)** | Premium modern barbershop web platform & booking experience | [![Render](https://img.shields.io/badge/Render-Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nova-cuts.onrender.com/) | HTML5, CSS3, Vanilla JS, Render CI/CD |
-| **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | Progressive Web App (PWA) for trading strategies & productivity tracking | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-black?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | PWA, Tailwind CSS, SVG Visuals, LocalStorage |
-| **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | Desktop facial tracking & eye motion detection application | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
-| **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless vision-based system navigation & camera gesture control | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
-| **[Panda Vault Elite (STUDY)](https://github.com/shrihari12012007-web/STUDY)** | Interactive animated student resource portal and academic vault | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, CSS3, JavaScript |
+| :racing_car: **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour Portfolio & Personal Showcase | [![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | HTML5, CSS3, JavaScript, WebGL Canvas |
+| :barber: **[NOVA CUTS](https://github.com/shrihari12012007-web/nova-cuts)** | Premium modern barbershop web platform & booking experience | [![Render](https://img.shields.io/badge/Render-Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nova-cuts.onrender.com/) | HTML5, CSS3, Vanilla JS, Render CI/CD |
+| :chart_with_upwards_trend: **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | Progressive Web App (PWA) for trading strategies & productivity tracking | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-black?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | PWA, Tailwind CSS, SVG Visuals, LocalStorage |
+| :eye: **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | Desktop facial tracking & eye motion detection application | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
+| :hand: **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless vision-based system navigation & camera gesture control | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
+| :panda_face: **[Panda Vault Elite (STUDY)](https://github.com/shrihari12012007-web/STUDY)** | Interactive animated student resource portal and academic vault | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, CSS3, JavaScript |
 
 ---
 
-### Tech Stack & Tools
+### :hammer_and_wrench: Tech Stack & Tools
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="right"><strong>Languages</strong></td>
+      <td align="right"><strong>:keyboard: Languages</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -60,7 +60,7 @@
       </td>
     </tr>
     <tr>
-      <td align="right"><strong>AI / Vision / ML</strong></td>
+      <td align="right"><strong>:robot: AI / Vision / ML</strong></td>
       <td>
         <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -70,7 +70,7 @@
       </td>
     </tr>
     <tr>
-      <td align="right"><strong>Frameworks & Web</strong></td>
+      <td align="right"><strong>:globe_with_meridians: Frameworks & Web</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
@@ -80,7 +80,7 @@
       </td>
     </tr>
     <tr>
-      <td align="right"><strong>Deployment & Cloud</strong></td>
+      <td align="right"><strong>:cloud: Cloud & Deployment</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -90,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="right"><strong>Dev Tools</strong></td>
+      <td align="right"><strong>:wrench: Dev Tools</strong></td>
       <td>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
@@ -102,7 +102,7 @@
 
 ---
 
-### GitHub Activity & Stats
+### :bar_chart: GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrihari12012007-web&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" height="165" />
@@ -115,10 +115,10 @@
 
 ---
 
-### Connect With Me
+### :mailbox_with_mail: Connect With Me
 
 <div align="center">
-  <p>I am always excited to discuss new opportunities, collaborate on creative software, or explore AI concepts.</p>
+  <p>:sparkles: I am always excited to discuss new opportunities, collaborate on creative software, or explore AI concepts.</p>
   <a href="https://linkedin.com/in/shreehari-s-b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -135,5 +135,5 @@
 <br />
 
 <div align="center">
-  <sub>Developed by Shree Hari S B</sub>
+  <sub>:star: Designed with passion by Shree Hari S B</sub>
 </div>
