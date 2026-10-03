@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://shreehari.onrender.com">Shree Hari S B</a> ðŸ‘‹</h1>
+  <h1>Hi there, I'm <a href="https://shreehari.onrender.com">Shree Hari S B</a> 👋</h1>
   <p>
-    <strong>Computer Science Engineer â€¢ AI & Computer Vision Developer â€¢ Creative Full-Stack Builder</strong>
+    <strong>Computer Science Engineer • AI & Computer Vision Developer • Creative Full-Stack Builder</strong>
   </p>
   <p>
-    ðŸ“ <em>Davangere, Karnataka, India</em> &nbsp;|&nbsp; ðŸŽ“ <em>CSE @ Jain Institute of Technology</em>
+    📍 <em>Davangere, Karnataka, India</em> &nbsp;|&nbsp; 🎓 <em>CSE @ Jain Institute of Technology</em>
   </p>
 
   <!-- Status Badges -->
@@ -23,30 +23,30 @@
 
 <hr />
 
-### ðŸš€ About Me
+### 🚀 About Me
 
-- ðŸŽ“ **Undergraduate:** Computer Science Engineering at Jain Institute of Technology, Davangere.
-- ðŸ’¡ **Passion:** Merging Artificial Intelligence, Computer Vision, and responsive modern web technologies to create interactive, real-world tools.
-- ðŸŽï¸ **Live Portfolio:** Explore my 3D interactive portfolio featuring a virtual BMW road tour at **[shreehari.onrender.com](https://shreehari.onrender.com/)**.
-- ðŸ› ï¸ **Current Focus:** Deepening expertise in Python, MediaPipe, OpenCV, Electron, and scalable cloud deployments on **Render** and **Vercel**.
-- ðŸŽ¯ **Looking For:** Collaborative open-source projects, internships, and technical challenges.
+- 🎓 **Undergraduate:** Computer Science Engineering at Jain Institute of Technology, Davangere.
+- 💡 **Passion:** Merging Artificial Intelligence, Computer Vision, and responsive modern web technologies to create interactive, real-world tools.
+- 🏎️ **Live Portfolio:** Explore my 3D interactive portfolio featuring a virtual BMW road tour at **[shreehari.onrender.com](https://shreehari.onrender.com/)**.
+- 🛠️ **Current Focus:** Deepening expertise in Python, MediaPipe, OpenCV, Electron, and scalable cloud deployments on **Render** and **Vercel**.
+- 🎯 **Looking For:** Collaborative open-source projects, internships, and technical challenges.
 
 ---
 
-### ðŸŒ Featured Projects & Live Deployments
+### 🌐 Featured Projects & Live Deployments
 
 | Project | Description | Live Demo / Deployment | Tech Stack |
 | :--- | :--- | :---: | :--- |
-| ðŸŽï¸ **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour Portfolio & Personal Showcase | [![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | HTML5, Modern CSS, JavaScript, WebGL Canvas |
-| âœ‚ï¸ **[NOVA CUTS](https://github.com/shrihari12012007-web/nova-cuts)** | Premium modern barbershop web platform & booking experience | [![Render](https://img.shields.io/badge/Render-Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nova-cuts.onrender.com/) | HTML5, CSS3, Vanilla JS, Render CI/CD |
-| ðŸ“ˆ **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | Progressive Web App (PWA) for trading strategies & productivity tracking | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-black?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | PWA, Tailwind CSS, SVG Visuals, LocalStorage |
-| ðŸ‘ï¸ **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | Desktop facial tracking & eye motion detection application | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
-| ðŸ–ï¸ **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless vision-based system navigation & camera gesture control | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
-| ðŸ¼ **[Panda Vault Elite (STUDY)](https://github.com/shrihari12012007-web/STUDY)** | Interactive animated student resource portal and academic vault | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, CSS3, JavaScript |
+| 🏎️ **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour Portfolio & Personal Showcase | [![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | HTML5, Modern CSS, JavaScript, WebGL Canvas |
+| ✂️ **[NOVA CUTS](https://github.com/shrihari12012007-web/nova-cuts)** | Premium modern barbershop web platform & booking experience | [![Render](https://img.shields.io/badge/Render-Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nova-cuts.onrender.com/) | HTML5, CSS3, Vanilla JS, Render CI/CD |
+| 📈 **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | Progressive Web App (PWA) for trading strategies & productivity tracking | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-black?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | PWA, Tailwind CSS, SVG Visuals, LocalStorage |
+| 👁️ **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | Desktop facial tracking & eye motion detection application | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
+| 🖐️ **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless vision-based system navigation & camera gesture control | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
+| 🐼 **[Panda Vault Elite (STUDY)](https://github.com/shrihari12012007-web/STUDY)** | Interactive animated student resource portal and academic vault | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, CSS3, JavaScript |
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <table border="0">
@@ -104,7 +104,7 @@
 
 ---
 
-### ðŸ“Š GitHub Activity & Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrihari12012007-web&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" height="165" />
@@ -117,7 +117,7 @@
 
 ---
 
-### ðŸ“¬ Connect With Me
+### 📬 Connect With Me
 
 <div align="center">
   <p>I'm always excited to discuss new opportunities, collaborate on creative software, or explore AI concepts.</p>
@@ -137,5 +137,5 @@
 <br />
 
 <div align="center">
-  <sub>Designed with â¤ï¸ by Shree Hari S B â€¢ Star my repositories if you find something interesting! â­</sub>
+  <sub>Designed with ❤️ by Shree Hari S B • Star my repositories if you find something interesting! ⭐</sub>
 </div>
