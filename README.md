@@ -1,13 +1,12 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://shreehari.onrender.com">Shree Hari S B</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://shreehari.onrender.com">Shree Hari S B</a></h1>
   <p>
-    <strong>Computer Science Engineer • AI & Computer Vision Developer • Creative Full-Stack Builder</strong>
+    <strong>Computer Science Engineer | AI & Computer Vision Developer | Full-Stack Web Builder</strong>
   </p>
   <p>
-    📍 <em>Davangere, Karnataka, India</em> &nbsp;|&nbsp; 🎓 <em>CSE @ Jain Institute of Technology</em>
+    Davangere, Karnataka, India | CSE @ Jain Institute of Technology
   </p>
 
-  <!-- Status Badges -->
   <p>
     <a href="https://shreehari.onrender.com/"><img src="https://img.shields.io/badge/Live_Portfolio-shreehari.onrender.com-00D2FF?style=for-the-badge&logo=render&logoColor=white" alt="Live Portfolio" /></a>
     <a href="https://linkedin.com/in/shreehari-s-b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,36 +16,35 @@
     <img src="https://komarev.com/ghpvc/?username=shrihari12012007-web&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Typing SVG Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=CSE+Student+%40+Jain+Institute+of+Technology;Building+Intelligent+AI+%26+Computer+Vision+Systems;Developing+Touchless+Gesture+Control;Deploying+Live+Apps+on+Render+%26+Vercel" alt="Typing Banner" />
 </div>
 
-<hr />
+---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 **Undergraduate:** Computer Science Engineering at Jain Institute of Technology, Davangere.
-- 💡 **Passion:** Merging Artificial Intelligence, Computer Vision, and responsive modern web technologies to create interactive, real-world tools.
-- 🏎️ **Live Portfolio:** Explore my 3D interactive portfolio featuring a virtual BMW road tour at **[shreehari.onrender.com](https://shreehari.onrender.com/)**.
-- 🛠️ **Current Focus:** Deepening expertise in Python, MediaPipe, OpenCV, Electron, and scalable cloud deployments on **Render** and **Vercel**.
-- 🎯 **Looking For:** Collaborative open-source projects, internships, and technical challenges.
+- **Undergraduate:** Computer Science Engineering at Jain Institute of Technology, Davangere.
+- **Interests:** Artificial Intelligence, Machine Learning, Computer Vision, and responsive web development.
+- **Live Portfolio:** Explore my 3D interactive portfolio featuring a virtual BMW road tour at **[shreehari.onrender.com](https://shreehari.onrender.com/)**.
+- **Current Focus:** Python, MediaPipe, OpenCV, Electron, and scalable cloud deployments on **Render** and **Vercel**.
+- **Looking For:** Collaborative open-source projects, internships, and developer opportunities.
 
 ---
 
-### 🌐 Featured Projects & Live Deployments
+### Featured Projects & Live Deployments
 
 | Project | Description | Live Demo / Deployment | Tech Stack |
 | :--- | :--- | :---: | :--- |
-| 🏎️ **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour Portfolio & Personal Showcase | [![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | HTML5, Modern CSS, JavaScript, WebGL Canvas |
-| ✂️ **[NOVA CUTS](https://github.com/shrihari12012007-web/nova-cuts)** | Premium modern barbershop web platform & booking experience | [![Render](https://img.shields.io/badge/Render-Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nova-cuts.onrender.com/) | HTML5, CSS3, Vanilla JS, Render CI/CD |
-| 📈 **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | Progressive Web App (PWA) for trading strategies & productivity tracking | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-black?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | PWA, Tailwind CSS, SVG Visuals, LocalStorage |
-| 👁️ **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | Desktop facial tracking & eye motion detection application | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
-| 🖐️ **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless vision-based system navigation & camera gesture control | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
-| 🐼 **[Panda Vault Elite (STUDY)](https://github.com/shrihari12012007-web/STUDY)** | Interactive animated student resource portal and academic vault | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, CSS3, JavaScript |
+| **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour Portfolio & Personal Showcase | [![Render](https://img.shields.io/badge/Render-Live_Site-46E3B7?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | HTML5, CSS3, JavaScript, WebGL Canvas |
+| **[NOVA CUTS](https://github.com/shrihari12012007-web/nova-cuts)** | Premium modern barbershop web platform & booking experience | [![Render](https://img.shields.io/badge/Render-Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nova-cuts.onrender.com/) | HTML5, CSS3, Vanilla JS, Render CI/CD |
+| **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | Progressive Web App (PWA) for trading strategies & productivity tracking | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-black?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | PWA, Tailwind CSS, SVG Visuals, LocalStorage |
+| **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | Desktop facial tracking & eye motion detection application | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
+| **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless vision-based system navigation & camera gesture control | [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
+| **[Panda Vault Elite (STUDY)](https://github.com/shrihari12012007-web/STUDY)** | Interactive animated student resource portal and academic vault | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, CSS3, JavaScript |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <table border="0">
@@ -104,7 +102,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrihari12012007-web&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" height="165" />
@@ -117,10 +115,10 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <div align="center">
-  <p>I'm always excited to discuss new opportunities, collaborate on creative software, or explore AI concepts.</p>
+  <p>I am always excited to discuss new opportunities, collaborate on creative software, or explore AI concepts.</p>
   <a href="https://linkedin.com/in/shreehari-s-b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -137,5 +135,5 @@
 <br />
 
 <div align="center">
-  <sub>Designed with ❤️ by Shree Hari S B • Star my repositories if you find something interesting! ⭐</sub>
+  <sub>Developed by Shree Hari S B</sub>
 </div>
