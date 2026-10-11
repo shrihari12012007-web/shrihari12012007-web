@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://shreehari.onrender.com/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Shree%20Hari%20S%20B&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Computer%20Science%20Engineer%20•%20AI%20&%20Computer%20Vision%20Developer%20•%20Full-Stack%20Builder&subfontSize=16&subfontColor=d4e5ff" alt="Hari Header Banner" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Shree%20Hari%20S%20B&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Computer%20Science%20Engineer%20•%20AI%20&%20Computer%20Vision%20Developer%20•%20Full-Stack%20Builder&subfontSize=16&subfontColor=d4e5ff" alt="Shree Hari S B Header Banner" width="100%" />
   </a>
 
   <!-- Badges Grid -->
