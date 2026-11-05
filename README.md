@@ -25,7 +25,7 @@
 ### :racing_car: The Flagship Experience — 3D BMW M Road Tour
 
 > **[:rocket: Launch 3D Drive Mode (Live on Render ↗)](https://shreehari.onrender.com/)**  
-> Explore my personal portfolio behind the wheel of a virtual BMW M in full-screen 3D WebGL with interactive terrain, steering physics, and ambient particle visuals.
+> Explore my official personal portfolio behind the wheel of a virtual BMW M in full-screen 3D WebGL with interactive terrain, steering physics, dynamic lighting, and ambient particle visuals.
 
 <div align="center">
   <code><b>[ 🔵 M Cyan ]</b> High-Performance AI &nbsp;|&nbsp; <b>[ 🔷 M Navy ]</b> Real-Time Vision &nbsp;|&nbsp; <b>[ 🔴 M Red ]</b> Full-Stack Systems</code>
@@ -37,20 +37,20 @@
 
 | Project | What It Does | Live Launch | Tech Stack |
 | :--- | :--- | :---: | :--- |
-| :racing_car: **[shreehari](https://github.com/shrihari12012007-web/shreehari)** | 3D Interactive BMW Road Tour & Portfolio | [![Render](https://img.shields.io/badge/Render-Live_Drive-0066B1?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | WebGL Canvas, Modern JS, CSS3 |
+| :racing_car: **[shreehari](https://github.com/shrihari12012007-web/shreehari)** / **[my-portfolio](https://github.com/shrihari12012007-web/my-portfolio)** | 3D Interactive BMW Road Tour & Official Portfolio | [![Render](https://img.shields.io/badge/Render-Live_Drive-0066B1?style=flat-square&logo=render&logoColor=white)](https://shreehari.onrender.com/) | Three.js, WebGL Canvas, Modern JS, CSS3 |
 | :hand: **[Hand Gesture Camera](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.)** | Touchless 3D Hand Landmark Tracking & Controller | [![GitHub](https://img.shields.io/badge/GitHub-Repo-001E50?style=flat-square&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/Hand_Gesture_Camera.) | Python, MediaPipe, OpenCV, Flask |
-| :eye: **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | AI Facial Tracking & Eye Gaze Client | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-E0001B?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, Node.js |
+| :eye: **[Desktop-Eye](https://github.com/shrihari12012007-web/Desktop-Eye)** | AI Facial Tracking & Photorealistic Biometric Gaze | [![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-E0001B?style=flat-square&logo=vercel&logoColor=white)](https://desktop-eye.vercel.app) | Electron, face-api.js, WebGL |
 | :chart_with_upwards_trend: **[Strategy Tracker](https://github.com/shrihari12012007-web/Strategy-Tracker)** | High-Speed Market Strategy & Routine PWA | [![Vercel](https://img.shields.io/badge/Vercel-Live_PWA-0066B1?style=flat-square&logo=vercel&logoColor=white)](https://strategy-tracker-nine.vercel.app) | Tailwind CSS, SVG Visuals, PWA |
+| :books: **[STUDY](https://github.com/shrihari12012007-web/STUDY)** | Interactive Student Hub & Human Anatomy Explorer | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Vault-222222?style=flat-square&logo=githubpages&logoColor=white)](https://shrihari12012007-web.github.io/STUDY/) | HTML5, Cyber Glassmorphism, JS |
 
 ---
 
 ### :hammer_and_wrench: Cockpit (Core Stack)
 
 ```yaml
-Languages    : [Python, JavaScript, Java, C, HTML5, CSS3]
 AI & Vision  : [MediaPipe, OpenCV, Gemini API, NumPy, face-api.js]
-Platform     : [Electron, React, WebGL Canvas, PWA]
-Cloud & Ops  : [Render, Vercel, GitHub Pages, Git]
+Web & 3D     : [Three.js, WebGL Canvas, Electron, React, PWA, Tailwind CSS]
+Cloud & Ops  : [Render, Vercel, GitHub Pages, Git, CI/CD]
 ```
 
 ---
